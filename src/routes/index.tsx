@@ -383,12 +383,6 @@ function Hero() {
         </p>
 
         <div className="mt-8 flex flex-wrap items-center justify-center gap-3">
-          <Button asChild size="lg" className="glow-accent">
-            <a href="/Resume_.pdf" download>
-              <Download className="mr-2 h-4 w-4" />
-              Download Resume
-            </a>
-          </Button>
 
           <Button asChild variant="outline" size="lg">
             <a
