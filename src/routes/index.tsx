@@ -71,6 +71,7 @@ const SKILLS = [
       "REST APIs",
       "Hibernate",
       "PyMongo",
+      "Node.js"
     ],
   },
   {
@@ -98,7 +99,7 @@ const SKILLS = [
     items: [
       "MySQL",
       "MongoDB",
-      "Service Discovery",
+      "PostgreSQL",
     ],
   },
   {
